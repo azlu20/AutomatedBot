@@ -1,0 +1,2 @@
+# AutomatedBot
+  This bot uses a self-created machine learning algorithm to decide what response to use. It comes with pre-installed commands such as help, /add, and end. Also has some other functionalities such as tracking time and keeping a log of all conversations. Documentation can be found here: https://gowustl-my.sharepoint.com/:w:/g/personal/a_z_lu_wustl_edu/EXQ9RXJIL9NEnatHRIXD9dIBEFrb561LN3p7C41fbQrnbQ?e=eWXmf7. Or can be done typing in "documentation" in the bot.
